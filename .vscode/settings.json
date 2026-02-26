@@ -1,0 +1,30 @@
+{
+    "java.project.referencedLibraries": [
+        "c:\\Users\\rafiq\\OneDrive\\JavaFx-Example\\javafx-sdk-25.0.1\\lib\\javafx-swt.jar",
+        "c:\\Users\\rafiq\\OneDrive\\JavaFx-Example\\javafx-sdk-25.0.1\\lib\\javafx.fxml.jar",
+        "c:\\Users\\rafiq\\OneDrive\\JavaFx-Example\\javafx-sdk-25.0.1\\lib\\javafx.swing.jar",
+        "c:\\Users\\rafiq\\OneDrive\\JavaFx-Example\\javafx-sdk-25.0.1\\lib\\jfx.incubator.richtext.jar",
+        "c:\\Users\\rafiq\\OneDrive\\JavaFx-Example\\javafx-sdk-25.0.1\\lib\\jfx.incubator.input.jar",
+        "c:\\Users\\rafiq\\OneDrive\\JavaFx-Example\\javafx-sdk-25.0.1\\lib\\javafx.controls.jar",
+        "c:\\Users\\rafiq\\OneDrive\\JavaFx-Example\\javafx-sdk-25.0.1\\lib\\javafx.media.jar",
+        "c:\\Users\\rafiq\\OneDrive\\JavaFx-Example\\javafx-sdk-25.0.1\\lib\\javafx.base.jar",
+        "c:\\Users\\rafiq\\OneDrive\\JavaFx-Example\\javafx-sdk-25.0.1\\lib\\javafx.graphics.jar",
+        "c:\\Users\\rafiq\\OneDrive\\JavaFx-Example\\javafx-sdk-25.0.1\\lib\\jdk.jsobject.jar",
+        "c:\\Users\\rafiq\\OneDrive\\JavaFx-Example\\javafx-sdk-25.0.1\\lib\\javafx.web.jar",
+        "lib/javafx.base.jar",
+        "lib/javafx.controls.jar",
+        "lib/javafx.fxml.jar",
+        "lib/javafx.graphics.jar",
+        "lib/javafx.media.jar",
+        "lib/javafx.swing.jar",
+        "lib/javafx.web.jar",
+        "lib/javafx-swt.jar",
+        "lib/jdk.jsobject.jar",
+        "lib/jfx.incubator.input.jar",
+        "lib/jfx.incubator.richtext.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "."
+    ]
+}

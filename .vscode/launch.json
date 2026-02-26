@@ -1,0 +1,85 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "LoanMain",
+      "request": "launch",
+      "mainClass": "LoanMain",
+      "projectName": "Java Fx_8d7cfeb4",
+      "vmArgs": "--module-path \"C:/Users/rafiq/OneDrive/SDK/javafx-sdk-25.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "MyJavaFX",
+      "request": "launch",
+      "mainClass": "MyJavaFX",
+      "projectName": "Java Fx_8d7cfeb4",
+      "vmArgs": "--module-path \"C:/Users/rafiq/OneDrive/SDK/javafx-sdk-25.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "ControlCircle",
+      "request": "launch",
+      "mainClass": "ControlCircle",
+      "projectName": "Java Fx_8d7cfeb4",
+      "vmArgs": "--module-path \"C:/Users/rafiq/OneDrive/SDK/javafx-sdk-25.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "ShowGridPane",
+      "request": "launch",
+      "mainClass": "ShowGridPane",
+      "projectName": "Java Fx_8d7cfeb4",
+      "vmArgs": "--module-path \"C:/Users/rafiq/OneDrive/SDK/javafx-sdk-25.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "Java Fx_8d7cfeb4",
+      "vmArgs": "--module-path \"C:/Users/rafiq/OneDrive/SDK/javafx-sdk-25.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "Chatbot",
+      "request": "launch",
+      "mainClass": "Chatbot",
+      "projectName": "Java Fx_8d7cfeb4",
+      "vmArgs": "--module-path \"C:/Users/rafiq/OneDrive/SDK/javafx-sdk-25.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "Loan",
+      "request": "launch",
+      "mainClass": "Loan",
+      "projectName": "Java Fx_8d7cfeb4",
+      "vmArgs": "--module-path \"C:/Users/rafiq/OneDrive/SDK/javafx-sdk-25.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "MoneyConverter",
+      "request": "launch",
+      "mainClass": "MoneyConverter",
+      "projectName": "Java Fx_8d7cfeb4",
+      "vmArgs": "--module-path \"C:/Users/rafiq/OneDrive/SDK/javafx-sdk-25.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "SnakeGame",
+      "request": "launch",
+      "mainClass": "SnakeGame",
+      "projectName": "Java Fx_8d7cfeb4",
+      "vmArgs": "--module-path \"C:/Users/rafiq/OneDrive/SDK/javafx-sdk-25.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "TicTacToe",
+      "request": "launch",
+      "mainClass": "TicTacToe",
+      "projectName": "Java Fx_8d7cfeb4",
+      "vmArgs": "--module-path \"C:/Users/rafiq/OneDrive/SDK/javafx-sdk-25.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+    }
+  ]
+}
