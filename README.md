@@ -8,7 +8,7 @@ This repository addresses that by providing both **educational class projects** 
 🎯 Mission
 To make learning JavaFX enjoyable while building interactive, colorful, and fun applications.
 
-🚀 Projects
+🚀 Projects description-
 
 ### 🎓 Class Projects
 - **ShowGridPane.java** – Demonstrates GridPane layout, text fields, and buttons for a simple form.  
