@@ -25,7 +25,7 @@ To make learning JavaFX enjoyable while building interactive, colorful, and fun 
 
 ✨ Fun Enhancements
 
-- **Inline CSS styling** for vibrant, playful interfaces.  
+- **Inline JavaFx CSS styling** for vibrant, playful interfaces.  
 - Games feature **automatic winner/draw detection, interactive buttons, and resets**.  
 - Loan and converter projects use **background gradients, hover effects, and rounded input fields**.  
 - Class projects focus on **layout management, input/output handling, and JavaFX fundamentals**.  
