@@ -36,5 +36,3 @@ To make learning JavaFX enjoyable while building interactive, colorful, and fun 
 - **GUI:** JavaFX  
 - **Development Environment:** VS Code.
 - **Version Control:** Git + GitHub  
-
-📦 Project Structure
