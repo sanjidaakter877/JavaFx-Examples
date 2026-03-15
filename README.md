@@ -19,7 +19,7 @@ To make learning JavaFX enjoyable while building interactive, colorful, and fun 
 ### 🎮 Fun & Enhanced Projects
 - **TicTacToe.java** – Colorful Tic Tac Toe game with X/O colors, automatic win/draw detection, and reset.  
 - **SnakeGame.java** – Classic snake game with cartoon-style head, score tracking, and rat food.  
-- **Calculator.java** – Standard calculator with kitten/dog themed buttons, hover effects, and black background.  
+- **Calculator.java** – Standard calculator with colorful buttons, hover effects, and black background.  
 - **Chatbot.java** – Interactive chatbot with colorful UI.  
 - **MoneyConverter.java** – Currency converter with playful gradients, styled input/output fields, and hoverable buttons.
 
