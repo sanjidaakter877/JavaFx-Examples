@@ -5,6 +5,11 @@ A collection of **interactive and colorful JavaFX applications**. This repositor
 Many beginner JavaFX projects lack interactive features, fun styling, and playful UI elements. Standard examples often feel bland and don’t showcase the full potential of JavaFX’s UI and animation capabilities.
 This repository addresses that by providing both **educational class projects** and **fun, visually appealing projects** for learning and experimentation.
 
+💡 Key Features
+-Built JavaFX applications with strong focus on GUI design, event-driven programming, and layout management.
+-Developed real-time interactive applications using animations, Timeline-based game loops, and dynamic UI updates.
+-Created games and tools (Snake Game, Tic Tac Toe, Calculator) demonstrating full end-to-end development skills and custom UI styling.
+
 🎯 Mission
 To make learning JavaFX enjoyable while building interactive, colorful, and fun applications.
 
